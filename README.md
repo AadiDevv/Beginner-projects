@@ -1,6 +1,6 @@
 # Training projects
 
-Ce dépôt rassemble une série de petits projets web conçus pour pratiquer et renforcer mes compétences en développement front-end. Chaque exercice explore des concepts spécifiques utilisant les technologies de base du web : CSS, HTML et JavaScript.
+Ce dépôt rassemble une série de petits projets web conçus pour pratiquer et renforcer mes compétences en développement web. Chaque exercice explore des concepts spécifiques utilisant les technologies de base du web : CSS, HTML et JavaScript.
 
 Les exercices inclus sont :
 
@@ -8,9 +8,9 @@ Hearts : Affiche des cœurs à l'écran lorsque la souris bouge. Les événement
 
 I am : Fait défiler un titre décrivant qui je suis.
 
-Calendrier : Affiche un calendrier interactif pour naviguer entre les dates.
+Calendrier : Affiche un calendrier avec la date du jour.
 
-Bouton avec Over Effect : Anime un bouton avec un effet spécial au survol.
+Bouton avec Over Effect : Anime un bouton avec un effet spécial au "hover".
 
 Random Img : Génère des images aléatoires sur une page web à l'aide d'une API.
 
